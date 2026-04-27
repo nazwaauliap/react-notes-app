@@ -1,6 +1,9 @@
-# 📝 Aplikasi Catatan Pribadi
+# 📝 Personal Notes App
 
-Aplikasi catatan pribadi berbasis React yang dibuat sebagai submission kelas **Belajar Fundamental Aplikasi Web dengan React** di Dicoding.
+Aplikasi catatan pribadi berbasis React dengan fitur autentikasi, dark/light mode, dan dukungan dua bahasa (ID/EN).
+
+## 🌐 Live Demo
+[https://react-notes-app-teal-eta.vercel.app](https://react-notes-app-teal-eta.vercel.app)
 
 ## ✨ Fitur
 
@@ -25,8 +28,8 @@ Aplikasi catatan pribadi berbasis React yang dibuat sebagai submission kelas **B
 
 1. Clone repositori ini
    ```bash
-   git clone https://github.com/username/personal-notes-app.git
-   cd personal-notes-app
+   git clone https://github.com/nazwaauliap/react-notes-app.git
+   cd react-notes-app
    ```
 
 2. Install dependensi
